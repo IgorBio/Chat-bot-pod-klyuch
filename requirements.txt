@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+yookassa
+gspread
+oauth2client
